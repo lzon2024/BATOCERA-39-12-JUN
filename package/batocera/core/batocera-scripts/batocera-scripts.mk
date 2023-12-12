@@ -23,6 +23,10 @@ ifeq ($(BR2_PACKAGE_WAYLAND)$(BR2_PACKAGE_SWAY),yy)
 endif
 ###
 
+ifeq ($(BR2_PACKAGE_EFIBOOTMGR),y)
+  BATOCERA_SCRIPTS_POST_INSTALL_TARGET_HOOKS += BATOCERA_SCRIPTS_INSTALL_EFI
+endif
+
 define BATOCERA_SCRIPTS_INSTALL_TARGET_CMDS
     install -m 0755 $(BATOCERA_SCRIPTS_PATH)/scripts/bluetooth/bluezutils.py            $(TARGET_DIR)/usr/lib/python$(PYTHON3_VERSION_MAJOR)/ # any variable ?
     install -m 0755 $(BATOCERA_SCRIPTS_PATH)/scripts/bluetooth/batocera-bluetooth       $(TARGET_DIR)/usr/bin/
@@ -74,6 +78,10 @@ endef
 
 define BATOCERA_SCRIPTS_INSTALL_ROCKCHIP
     install -m 0755 $(BATOCERA_SCRIPTS_PATH)/scripts/batocera-rockchip-suspend $(TARGET_DIR)/usr/bin/
+endef
+
+define BATOCERA_SCRIPTS_INSTALL_EFI
+    install -m 0755 $(BATOCERA_SCRIPTS_PATH)/scripts/batocera-efi $(TARGET_DIR)/usr/bin/batocera-efi
 endef
 
 $(eval $(generic-package))
