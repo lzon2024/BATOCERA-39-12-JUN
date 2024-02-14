@@ -67,4 +67,12 @@
 	    "description": "Fast Forward"
 	}
     ]
+    ,"actions_gun1": [
+    {
+            "trigger": ["left", "right", "middle"],
+            "type": "key",
+            "target": [ "KEY_LEFTALT", "KEY_F4" ],
+            "description": "Exit Duckstation"
+    }
+	]
 }

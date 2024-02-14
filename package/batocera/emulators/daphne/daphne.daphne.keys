@@ -6,5 +6,23 @@
             "target": ["KEY_ESC"],
             "description": "Exit emulator"
     }
+	]
+    ,"actions_gun1": [
+    {
+            "trigger": "middle",
+            "type": "key",
+            "target": "KEY_5"
+    },
+	{
+            "trigger": "1",
+            "type": "key",
+            "target": "KEY_1"
+    },
+    {
+            "trigger": ["left", "right", "middle"],
+            "type": "key",
+            "target": [ "KEY_ESC" ],
+            "description": "Exit emulator"
+    }
     ]
 }
