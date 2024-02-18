@@ -31,6 +31,8 @@ endef
 define LIBRETRO_STELLA_INSTALL_TARGET_CMDS
 	$(INSTALL) -D $(@D)/src/os/libretro/stella_libretro.so \
 		$(TARGET_DIR)/usr/lib/libretro/stella_libretro.so
+	#Gun1 evmapy	
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-stella/atari2600.libretro.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))

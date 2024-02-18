@@ -58,6 +58,9 @@ define LIBRETRO_VICE_INSTALL_TARGET_CMDS
 	$(INSTALL) -D $(@D)/vice_xplus4_libretro.so $(TARGET_DIR)/usr/lib/libretro/vice_xplus4_libretro.so
 	$(INSTALL) -D $(@D)/vice_xscpu64_libretro.so $(TARGET_DIR)/usr/lib/libretro/vice_xscpu64_libretro.so
 	$(INSTALL) -D $(@D)/vice_xvic_libretro.so $(TARGET_DIR)/usr/lib/libretro/vice_xvic_libretro.so
+
+	#Gun1 evmapy	
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-vice/c64.libretro.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))

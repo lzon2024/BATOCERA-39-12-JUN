@@ -34,6 +34,9 @@ endef
 define LIBRETRO_GENESISPLUSGX_INSTALL_TARGET_CMDS
 	$(INSTALL) -D $(@D)/genesis_plus_gx_libretro.so \
 		$(TARGET_DIR)/usr/lib/libretro/genesisplusgx_libretro.so
+		
+	#Gun1 evmapy	
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-genesisplusgx/*.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))
