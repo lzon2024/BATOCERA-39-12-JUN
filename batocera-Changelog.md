@@ -25,6 +25,7 @@ Support for Nvidia cards requiring the legacy 340.108 driver.
   - Thrustmaster T150RS
   - Thrustmaster T80 (gamepad mode only)
   - Driving Wheel SV200
+- Support for standalone MAME (MAME) and libretro-MAME (lr-mame) BIOS files in bios/mame/ subfolder
 ### Fixed
 - RG552 Splash-screen rotation
 - RG552 Vibrator enabled
