@@ -33,6 +33,9 @@ endef
 define LIBRETRO_SNES9X_INSTALL_TARGET_CMDS
 	$(INSTALL) -D $(@D)/libretro/snes9x_libretro.so \
 		$(TARGET_DIR)/usr/lib/libretro/snes9x_libretro.so
+		
+	#Gun1 evmapy	
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-snes9x/snes.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))

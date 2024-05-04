@@ -38,7 +38,13 @@
             "trigger": "1",
             "type": "key",
             "target": "KEY_1"
-	}
+	},
+    {
+            "trigger": ["left", "right", "middle"],
+            "type": "key",
+            "target": [ "KEY_LEFTALT", "KEY_F4" ],
+            "description": "Exit emulator"
+    }
     ]
     ,"actions_gun2": [
 	{
@@ -52,5 +58,4 @@
             "target": "KEY_2"
 	}
     ]
-
 }

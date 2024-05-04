@@ -56,6 +56,9 @@ define LIBRETRO_MAME2003_PLUS_INSTALL_TARGET_CMDS
 	mkdir -p $(TARGET_DIR)/usr/share/batocera/datainit/bios/mame2003-plus/samples
 	cp -r $(@D)/metadata-install/* \
 		$(TARGET_DIR)/usr/share/batocera/datainit/bios/mame2003-plus
+
+	#Gun1 evmapy
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-mame2003-plus/mame.libretro.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 define LIBRETRO_MAME2003_PLUS_NAMCO_QUICK_FIX

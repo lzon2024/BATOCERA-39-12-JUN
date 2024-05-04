@@ -35,6 +35,9 @@ endef
 define LIBRETRO_FCEUMM_INSTALL_TARGET_CMDS
 	$(INSTALL) -D $(@D)/fceumm_libretro.so \
 		$(TARGET_DIR)/usr/lib/libretro/fceumm_libretro.so
+		
+	#Gun1 evmapy	
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-fceumm/nes.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))

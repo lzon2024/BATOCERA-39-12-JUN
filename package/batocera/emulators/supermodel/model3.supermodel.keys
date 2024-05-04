@@ -36,4 +36,12 @@
             "target": [ "KEY_LEFTALT", "KEY_S" ]
 	}
     ]
+    ,"actions_gun1": [
+    {
+            "trigger": ["left", "right", "middle"],
+            "type": "key",
+            "target": [ "KEY_ESC" ],
+            "description": "Exit emulator"
+    }
+	]
 }

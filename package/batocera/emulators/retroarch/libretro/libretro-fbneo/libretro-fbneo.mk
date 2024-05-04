@@ -64,6 +64,9 @@ define LIBRETRO_FBNEO_INSTALL_TARGET_CMDS
     # --exclude light as those are for the n3ds build of fbneo, not used by Batocera at all
 	rsync -a $(@D)/dats/* \
 		$(TARGET_DIR)/usr/share/batocera/datainit/bios/fbneo --exclude light
+
+	#Gun1 evmapy	
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-fbneo/fbneo.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))

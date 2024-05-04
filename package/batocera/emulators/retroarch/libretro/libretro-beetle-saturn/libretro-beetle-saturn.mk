@@ -16,6 +16,8 @@ endef
 define LIBRETRO_BEETLE_SATURN_INSTALL_TARGET_CMDS
 	$(INSTALL) -D $(@D)/mednafen_saturn_hw_libretro.so \
 		$(TARGET_DIR)/usr/lib/libretro/beetle-saturn_libretro.so
+	#Gun1 evmapy
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-beetle-saturn/saturn.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))

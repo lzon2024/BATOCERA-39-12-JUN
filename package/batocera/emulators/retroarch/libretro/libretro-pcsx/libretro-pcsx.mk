@@ -49,6 +49,8 @@ endef
 define LIBRETRO_PCSX_INSTALL_TARGET_CMDS
 	$(INSTALL) -D $(@D)/pcsx_rearmed_libretro.so \
 		$(TARGET_DIR)/usr/lib/libretro/pcsx_rearmed_libretro.so
+	#Gun1 evmapy
+	cp -f $(BR2_EXTERNAL_BATOCERA_PATH)/package/batocera/emulators/retroarch/libretro/libretro-pcsx_rearmed/psx.libretro.keys $(TARGET_DIR)/usr/share/evmapy/
 endef
 
 $(eval $(generic-package))
