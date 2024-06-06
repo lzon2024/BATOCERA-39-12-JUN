@@ -26,7 +26,7 @@ class BackglassAPI(BaseHTTPRequestHandler):
                 data   = {}
                 with urllib.request.urlopen("http://localhost:1234/systems/{}/games/{}".format(system, hash)) as url:
                     data = json.load(url)
-                    for prop in ["image", "video", "marquee", "thumbnail", "fanart", "manual"]:
+                    for prop in ["image", "video", "marquee", "thumbnail", "fanart", "manual", "titleshot", "bezel", "magazine", "manual", "boxart", "boxback", "wheel", "mix"]:
                         if prop in data:
                             data[prop] = "http://localhost:1234" + data[prop]
                     window.evaluate_js("onGame(" + json.dumps(data) + ")")
@@ -42,6 +42,10 @@ class BackglassAPI(BaseHTTPRequestHandler):
                             data[prop] = "http://localhost:1234" + data[prop]
                     window.evaluate_js("onSystem(" + json.dumps(data) + ")")
                 self.wfile.write(bytes("OK\n", "utf-8"))
+
+            elif query.path == "/location":
+                url = qs["url"][0]
+                window.load_url(url)
 
         except Exception as e:
             print(e)
@@ -63,5 +67,5 @@ parser.add_argument("--width",  type=int, default=800, help="window width")
 parser.add_argument("--height", type=int, default=600, help="window height")
 args = parser.parse_args()
 
-window = webview.create_window('backglass', '/usr/share/batocera-backglass/www/backglass-default/index.htm', x=args.x, y=args.y, width=args.width, height=args.height)
+window = webview.create_window('backglass', args.www, x=args.x, y=args.y, width=args.width, height=args.height, focus=False)
 webview.start(handle_api, window)
