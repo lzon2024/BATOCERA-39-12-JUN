@@ -42,6 +42,7 @@ Add support for the Ayaneo Air Plus (6800U) model
 - Bezel support for Daphne/Singe (can be toggled off)
 - Foot pedal for light guns on libretro cores, Duckstation, PCSX2 and MAME standalone
   - Bind key C for player 1; V for player 2; B for player 3; N for player 4
+- Support for standalone MAME (MAME) and libretro-MAME (lr-mame) BIOS files in bios/mame/ subfolder
 ### Fixed
 - RG552 Splash-screen rotation
 - RG552 Vibrator enabled
