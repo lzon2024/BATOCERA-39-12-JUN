@@ -4,8 +4,8 @@
 #
 ################################################################################
 
-CITRA_VERSION = nightly-2054
-CITRA_SITE = https://github.com/citra-emu/citra-nightly.git
+CITRA_VERSION = r518f723
+CITRA_SITE = https://github.com/PabloMK7/citra.git
 CITRA_SITE_METHOD=git
 CITRA_GIT_SUBMODULES=YES
 CITRA_LICENSE = GPLv2
