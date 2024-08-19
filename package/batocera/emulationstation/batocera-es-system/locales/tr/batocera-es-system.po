@@ -14525,305 +14525,15 @@ msgctxt "game_options"
 msgid "TRIPLE BUFFERING"
 msgstr "ÜÇLÜ TAMPONLAMA"
 
-#. TRANSLATION: corsixth.keys
+#. TRANSLATION: moonlight.moonlight.keys
 msgctxt "keys_files"
-msgid "Move camera up"
-msgstr "Kamerayı yukarı taşı"
+msgid "Exit emulator using SDL"
+msgstr "SDL kullanarak emülatörden çıkın"
 
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Move camera down"
-msgstr "Kamerayı aşağı taşı"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Move camera to the left"
-msgstr "Kamerayı sola taşı"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Move camera to the right"
-msgstr "Kamerayı sağa taşı"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Quit the application"
-msgstr "Uygulamadan çık"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Start / Valid"
-msgstr "Başla / Geçerli"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Shows or hides the menu bar"
-msgstr "Menü çubuğunu gösterir veya gizler"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Rotates the current object"
-msgstr "Geçerli nesneyi döndürür"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Select"
-msgstr "Seç"
-
-#. TRANSLATION: corsixth.keys, iortcw.keys, fallout2-ce.keys, fallout1-ce.keys
-msgctxt "keys_files"
-msgid "Quick save"
-msgstr "Hızlı Kayıt"
-
-#. TRANSLATION: corsixth.keys, iortcw.keys, fallout2-ce.keys, fallout1-ce.keys
-msgctxt "keys_files"
-msgid "Quick load"
-msgstr "Hızlı Yükle"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom in x5"
-msgstr "5x Yakınlaştır"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom out x5"
-msgstr "5x Uzaklaştır"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Take a screenshot"
-msgstr "Ekran görüntüsü al"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Reset the application"
-msgstr "Uygulamayı Sıfırla"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Hire staff"
-msgstr "Personel almak"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Edit room"
-msgstr "Oda Düzenle"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Open build room menu"
-msgstr "Derleme odası menüsünü aç"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Open furnish corridor menu"
-msgstr "Mobilya koridoru menüsünü aç"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Quits the current level"
-msgstr "Mevcut seviyeden çıkar"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Speeds up the game"
-msgstr "Oyunu hızlandır"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Set speed normal"
-msgstr "Hızı normale ayarla"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Show the cheat menu"
-msgstr "Hile menüsünü göster"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom the camera out"
-msgstr "Kamerayı uzaklaştır"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom in the camera"
-msgstr "Kamerayı yakınlaştır"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Open LUA console"
-msgstr "LUA consolunu aç"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Town map"
-msgstr "Şehir Haritası"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Casebook"
-msgstr "Vaka Defteri"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Research"
-msgstr "Araştırma"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Manage Staff"
-msgstr "Personeli Yönet"
-
-#. TRANSLATION: sonic3-air.keys, dxx-rebirth.keys, sonic-mania.keys, etlegacy.keys, fallout2-ce.keys, ...
-msgctxt "keys_files"
-msgid "Exit game"
-msgstr "Oyundan Çık"
-
-#. TRANSLATION: gzdoom.keys, raze.keys, eduke32.keys
-msgctxt "keys_files"
-msgid "quicksave"
-msgstr "hızlı kayıt"
-
-#. TRANSLATION: gzdoom.keys, raze.keys, eduke32.keys
-msgctxt "keys_files"
-msgid "quickload"
-msgstr "hızlı yükle"
-
-#. TRANSLATION: gzdoom.keys, raze.keys, eduke32.keys
-msgctxt "keys_files"
-msgid "screenshot"
-msgstr "ekran kaydı"
-
-#. TRANSLATION: iortcw.keys, theforceengine.keys
-msgctxt "keys_files"
-msgid "Skip cutscene"
-msgstr "Ara Sahne Atla"
-
-#. TRANSLATION: iortcw.keys, 3ds.citra.keys, psx.duckstation.keys, triforce.dolphin_triforce.keys, psp.ppsspp.keys, ...
-msgctxt "keys_files"
-msgid "Screenshot"
-msgstr "Ekran Kaydı"
-
-#. TRANSLATION: theforceengine.keys, switch.ryujinx.keys, vpinball.keys, dreamcast.redream.keys, gaelco.demul.keys, ...
+#. TRANSLATION: vpinball.keys, dreamcast.redream.keys, naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, ...
 msgctxt "keys_files"
 msgid "Exit the emulator"
 msgstr "Sanal Makineden Çık"
-
-#. TRANSLATION: theforceengine.keys
-msgctxt "keys_files"
-msgid "Quick Load"
-msgstr "Hızlı Yükle"
-
-#. TRANSLATION: theforceengine.keys
-msgctxt "keys_files"
-msgid "Quick Save"
-msgstr "Hızlı Kaydet"
-
-#. TRANSLATION: fallout2-ce.keys, fallout1-ce.keys
-msgctxt "keys_files"
-msgid "Bring up menu"
-msgstr "Menüyü Aç"
-
-#. TRANSLATION: steam.keys, 3ds.citra.keys, xbox360.xenia-canary.keys, amiga500.fsuae.keys, amiga1200.fsuae.keys, ...
-msgctxt "keys_files"
-msgid "Exit emulator"
-msgstr "Emülatörden Çık"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Move Stylet Pointer"
-msgstr "Stile İşaretçisini Taşı"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Restart Emulation"
-msgstr "Sanallaştırmayı Yeniden Başlat"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Continue/Pause emulation"
-msgstr "Sanallaştırma Devam/Beklet"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Swap Screen"
-msgstr "Ekranı Değiştir"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Toggle Screen Layout"
-msgstr "Ekran Düzenini Değiştir"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Toggle Speed Limit"
-msgstr "Hız Sınırını Değiştir"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Swap screens"
-msgstr "Ekranı Değiştir"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Mouse Click"
-msgstr "Fare Tıklaması"
-
-#. TRANSLATION: dos.dosbox-x.keys
-msgctxt "keys_files"
-msgid "Exit Dosbox-X"
-msgstr "Dosbox-X Kapat"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Exit Duckstation"
-msgstr "Duckstationdan Çık"
-
-#. TRANSLATION: psx.duckstation.keys, nds.drastic.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Load State"
-msgstr "Durumu Yükle"
-
-#. TRANSLATION: psx.duckstation.keys, nds.drastic.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Save State"
-msgstr "Durumu Kaydet"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Open DuckStation Quick Menu"
-msgstr "DuckStation Hızlı Menü Aç"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Restart Game"
-msgstr "Tekrar Başlat"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Slot -"
-msgstr "Slot -"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Slot +"
-msgstr "Slot +"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Rewind"
-msgstr "Geri Sarma"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Next Disc (m3u)"
-msgstr "Sonraki Disk (m3u)"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Fast Forward"
-msgstr ""
 
 #. TRANSLATION: vpinball.keys
 msgctxt "keys_files"
@@ -14889,6 +14599,51 @@ msgstr "Sol magnasave"
 msgctxt "keys_files"
 msgid "Right magnasave"
 msgstr "Sağ magnasave"
+
+#. TRANSLATION: atomiswave.flycast.keys, naomi.flycast.keys, naomi2.flycast.keys, dreamcast.flycast.keys, triforce.dolphin_triforce.keys, ...
+msgctxt "keys_files"
+msgid "Exit emulator"
+msgstr "Emülatörden Çık"
+
+#. TRANSLATION: atomiswave.flycast.keys, naomi.flycast.keys, naomi2.flycast.keys, dreamcast.flycast.keys, dreamcast.redream.keys
+msgctxt "keys_files"
+msgid "Hide the bezel"
+msgstr "Çerçeveyi gizle"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys
+msgctxt "keys_files"
+msgid "Open Dolphin-triforce's menu"
+msgstr "Dolphin-triforce menü aç"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys
+msgctxt "keys_files"
+msgid "Load State Slot 1"
+msgstr "Slot 1 Durumunu Yükle"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys
+msgctxt "keys_files"
+msgid "Save State Slot 1"
+msgstr "Slot 1 Durumunu Kaydet"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys, scummvm.keys, 3ds.citra.keys, psp.ppsspp.keys, psx.duckstation.keys, ...
+msgctxt "keys_files"
+msgid "Screenshot"
+msgstr "Ekran Kaydı"
+
+#. TRANSLATION: scummvm.keys
+msgctxt "keys_files"
+msgid "Menu"
+msgstr "Menü"
+
+#. TRANSLATION: scummvm.keys
+msgctxt "keys_files"
+msgid "Graphics filtering on/off"
+msgstr "Grafik Filtresi aç/kapat"
+
+#. TRANSLATION: wiiu.keys
+msgctxt "keys_files"
+msgid "Display the controller screen"
+msgstr "Kontrolcü ekranını görüntüleyin"
 
 #. TRANSLATION: nds.drastic.keys
 msgctxt "keys_files"
@@ -14995,6 +14750,16 @@ msgctxt "keys_files"
 msgid "Exit Drastic"
 msgstr "Drastic'ten çık"
 
+#. TRANSLATION: nds.drastic.keys, psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Save State"
+msgstr "Durumu Kaydet"
+
+#. TRANSLATION: nds.drastic.keys, psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Load State"
+msgstr "Durumu Yükle"
+
 #. TRANSLATION: nds.drastic.keys
 msgctxt "keys_files"
 msgid "Swap Screens"
@@ -15010,175 +14775,410 @@ msgctxt "keys_files"
 msgid "FastForward"
 msgstr "Hızlı İleri"
 
-#. TRANSLATION: dreamcast.redream.keys, atomiswave.flycast.keys, dreamcast.flycast.keys, naomi.flycast.keys, naomi2.flycast.keys
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
 msgctxt "keys_files"
-msgid "Hide the bezel"
-msgstr "Çerçeveyi gizle"
+msgid "Start"
+msgstr "Başlat"
 
-#. TRANSLATION: amiga500.fsuae.keys, amiga1200.fsuae.keys, amigacdtv.fsuae.keys, amigacd32.fsuae.keys
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Coin"
+msgstr "Kredi"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 2"
+msgstr "Tuş 2"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 1"
+msgstr "Tuş 1"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 4"
+msgstr "Tuş 4"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 3"
+msgstr "Tuş 3"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 5"
+msgstr "Tuş 5"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 6"
+msgstr "Tuş 6"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 7"
+msgstr "Tuş 7"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 8"
+msgstr "Tuş 8"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Left"
+msgstr "Dijital Sol"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Right"
+msgstr "Dijital Sağ"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Up"
+msgstr "Dijital Yukarı"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Down"
+msgstr "Dijital Aşağı"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Left"
+msgstr "Analog 1 Sol"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Right"
+msgstr "Analog 1 Sağ"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Up"
+msgstr "Analog 1 Yukarı"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Down"
+msgstr "Analog 1 Aşağı"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Left"
+msgstr "Analog 2 Sol"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Right"
+msgstr "Analog 2 Sağ"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Up"
+msgstr "Analog 2 Yukarı"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Down"
+msgstr "Analog 2 aşağı"
+
+#. TRANSLATION: hikaru.demul.keys, gaelco.demul.keys
+msgctxt "keys_files"
+msgid "Set to full screen"
+msgstr "Tam ekran ayarla"
+
+#. TRANSLATION: amiga1200.fsuae.keys, amigacd32.fsuae.keys, amigacdtv.fsuae.keys, amiga500.fsuae.keys
 msgctxt "keys_files"
 msgid "Virtual Keyboard"
 msgstr "Sanal Klavye"
 
-#. TRANSLATION: amiga500.fsuae.keys, amiga1200.fsuae.keys, amigacdtv.fsuae.keys, amigacd32.fsuae.keys
+#. TRANSLATION: amiga1200.fsuae.keys, amigacd32.fsuae.keys, amigacdtv.fsuae.keys, amiga500.fsuae.keys
 msgctxt "keys_files"
 msgid "Settings GUI"
 msgstr "GUI Ayarları"
 
-#. TRANSLATION: triforce.dolphin_triforce.keys
+#. TRANSLATION: 3ds.citra.keys
 msgctxt "keys_files"
-msgid "Open Dolphin-triforce's menu"
-msgstr "Dolphin-triforce menü aç"
+msgid "Move Stylet Pointer"
+msgstr "Stile İşaretçisini Taşı"
 
-#. TRANSLATION: triforce.dolphin_triforce.keys
+#. TRANSLATION: 3ds.citra.keys
 msgctxt "keys_files"
-msgid "Load State Slot 1"
-msgstr "Slot 1 Durumunu Yükle"
+msgid "Restart Emulation"
+msgstr "Sanallaştırmayı Yeniden Başlat"
 
-#. TRANSLATION: triforce.dolphin_triforce.keys
+#. TRANSLATION: 3ds.citra.keys
 msgctxt "keys_files"
-msgid "Save State Slot 1"
-msgstr "Slot 1 Durumunu Kaydet"
+msgid "Continue/Pause emulation"
+msgstr "Sanallaştırma Devam/Beklet"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Swap Screen"
+msgstr "Ekranı Değiştir"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Toggle Screen Layout"
+msgstr "Ekran Düzenini Değiştir"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Toggle Speed Limit"
+msgstr "Hız Sınırını Değiştir"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Swap screens"
+msgstr "Ekranı Değiştir"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Mouse Click"
+msgstr "Fare Tıklaması"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Slot -"
+msgstr "Slot -"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Slot +"
+msgstr "Slot +"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Rewind"
+msgstr "Geri Sarma"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Fast Forward"
+msgstr ""
 
 #. TRANSLATION: psp.ppsspp.keys
 msgctxt "keys_files"
 msgid "Pause / Menu"
 msgstr "Beklet / Menü"
 
-#. TRANSLATION: moonlight.moonlight.keys
+#. TRANSLATION: dos.dosbox-x.keys
 msgctxt "keys_files"
-msgid "Exit emulator using SDL"
-msgstr "SDL kullanarak emülatörden çıkın"
+msgid "Exit Dosbox-X"
+msgstr "Dosbox-X Kapat"
 
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Set to full screen"
-msgstr "Tam ekran ayarla"
+msgid "Exit Duckstation"
+msgstr "Duckstationdan Çık"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Start"
-msgstr "Başlat"
+msgid "Open DuckStation Quick Menu"
+msgstr "DuckStation Hızlı Menü Aç"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Coin"
-msgstr "Kredi"
+msgid "Restart Game"
+msgstr "Tekrar Başlat"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Push 2"
-msgstr "Tuş 2"
+msgid "Next Disc (m3u)"
+msgstr "Sonraki Disk (m3u)"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: raze.keys, eduke32.keys, gzdoom.keys
 msgctxt "keys_files"
-msgid "Push 1"
-msgstr "Tuş 1"
+msgid "quicksave"
+msgstr "hızlı kayıt"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: raze.keys, eduke32.keys, gzdoom.keys
 msgctxt "keys_files"
-msgid "Push 4"
-msgstr "Tuş 4"
+msgid "quickload"
+msgstr "hızlı yükle"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: raze.keys, eduke32.keys, gzdoom.keys
 msgctxt "keys_files"
-msgid "Push 3"
-msgstr "Tuş 3"
+msgid "screenshot"
+msgstr "ekran kaydı"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: etlegacy.keys, dxx-rebirth.keys, fallout1-ce.keys, sonic-mania.keys, fallout2-ce.keys, ...
 msgctxt "keys_files"
-msgid "Push 5"
-msgstr "Tuş 5"
+msgid "Exit game"
+msgstr "Oyundan Çık"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Push 6"
-msgstr "Tuş 6"
+msgid "Move camera up"
+msgstr "Kamerayı yukarı taşı"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Push 7"
-msgstr "Tuş 7"
+msgid "Move camera down"
+msgstr "Kamerayı aşağı taşı"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Push 8"
-msgstr "Tuş 8"
+msgid "Move camera to the left"
+msgstr "Kamerayı sola taşı"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Left"
-msgstr "Dijital Sol"
+msgid "Move camera to the right"
+msgstr "Kamerayı sağa taşı"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Right"
-msgstr "Dijital Sağ"
+msgid "Quit the application"
+msgstr "Uygulamadan çık"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Up"
-msgstr "Dijital Yukarı"
+msgid "Start / Valid"
+msgstr "Başla / Geçerli"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Down"
-msgstr "Dijital Aşağı"
+msgid "Shows or hides the menu bar"
+msgstr "Menü çubuğunu gösterir veya gizler"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 1 Left"
-msgstr "Analog 1 Sol"
+msgid "Rotates the current object"
+msgstr "Geçerli nesneyi döndürür"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 1 Right"
-msgstr "Analog 1 Sağ"
+msgid "Select"
+msgstr "Seç"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys, fallout1-ce.keys, fallout2-ce.keys, iortcw.keys
 msgctxt "keys_files"
-msgid "Analog 1 Up"
-msgstr "Analog 1 Yukarı"
+msgid "Quick save"
+msgstr "Hızlı Kayıt"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys, fallout1-ce.keys, fallout2-ce.keys, iortcw.keys
 msgctxt "keys_files"
-msgid "Analog 1 Down"
-msgstr "Analog 1 Aşağı"
+msgid "Quick load"
+msgstr "Hızlı Yükle"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Left"
-msgstr "Analog 2 Sol"
+msgid "Zoom in x5"
+msgstr "5x Yakınlaştır"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Right"
-msgstr "Analog 2 Sağ"
+msgid "Zoom out x5"
+msgstr "5x Uzaklaştır"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Up"
-msgstr "Analog 2 Yukarı"
+msgid "Take a screenshot"
+msgstr "Ekran görüntüsü al"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Down"
-msgstr "Analog 2 aşağı"
+msgid "Reset the application"
+msgstr "Uygulamayı Sıfırla"
 
-#. TRANSLATION: scummvm.keys
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Menu"
-msgstr "Menü"
+msgid "Hire staff"
+msgstr "Personel almak"
 
-#. TRANSLATION: scummvm.keys
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Graphics filtering on/off"
-msgstr "Grafik Filtresi aç/kapat"
+msgid "Edit room"
+msgstr "Oda Düzenle"
 
-#. TRANSLATION: wiiu.keys
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Display the controller screen"
-msgstr "Kontrolcü ekranını görüntüleyin"
+msgid "Open build room menu"
+msgstr "Derleme odası menüsünü aç"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Open furnish corridor menu"
+msgstr "Mobilya koridoru menüsünü aç"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Quits the current level"
+msgstr "Mevcut seviyeden çıkar"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Speeds up the game"
+msgstr "Oyunu hızlandır"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Set speed normal"
+msgstr "Hızı normale ayarla"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Show the cheat menu"
+msgstr "Hile menüsünü göster"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Zoom the camera out"
+msgstr "Kamerayı uzaklaştır"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Zoom in the camera"
+msgstr "Kamerayı yakınlaştır"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Open LUA console"
+msgstr "LUA consolunu aç"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Town map"
+msgstr "Şehir Haritası"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Casebook"
+msgstr "Vaka Defteri"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Research"
+msgstr "Araştırma"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Manage Staff"
+msgstr "Personeli Yönet"
+
+#. TRANSLATION: fallout1-ce.keys, fallout2-ce.keys
+msgctxt "keys_files"
+msgid "Bring up menu"
+msgstr "Menüyü Aç"
+
+#. TRANSLATION: theforceengine.keys
+msgctxt "keys_files"
+msgid "Quick Load"
+msgstr "Hızlı Yükle"
+
+#. TRANSLATION: theforceengine.keys
+msgctxt "keys_files"
+msgid "Quick Save"
+msgstr "Hızlı Kaydet"
+
+#. TRANSLATION: theforceengine.keys, iortcw.keys
+msgctxt "keys_files"
+msgid "Skip cutscene"
+msgstr "Ara Sahne Atla"
 
 #~ msgctxt "game_options"
 #~ msgid "INSTALL MEDIA FOUNDATION"

@@ -14467,305 +14467,15 @@ msgctxt "game_options"
 msgid "TRIPLE BUFFERING"
 msgstr "TROJITÝ BUFFERING"
 
-#. TRANSLATION: corsixth.keys
+#. TRANSLATION: moonlight.moonlight.keys
 msgctxt "keys_files"
-msgid "Move camera up"
-msgstr "Posunutí kamery nahoru"
+msgid "Exit emulator using SDL"
+msgstr "Ukončení emulátoru pomocí SDL"
 
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Move camera down"
-msgstr "Posunutí kamery dolů"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Move camera to the left"
-msgstr "Posunutí kamery doleva"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Move camera to the right"
-msgstr "Posunutí kamery doprava"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Quit the application"
-msgstr "Ukončit aplikaci"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Start / Valid"
-msgstr "Start / Platnost"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Shows or hides the menu bar"
-msgstr "Zobrazení nebo skrytí panelu menu"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Rotates the current object"
-msgstr "Otočí aktuální objekt"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Select"
-msgstr "Vybrat"
-
-#. TRANSLATION: corsixth.keys, iortcw.keys, fallout2-ce.keys, fallout1-ce.keys
-msgctxt "keys_files"
-msgid "Quick save"
-msgstr "Rychlé uložení"
-
-#. TRANSLATION: corsixth.keys, iortcw.keys, fallout2-ce.keys, fallout1-ce.keys
-msgctxt "keys_files"
-msgid "Quick load"
-msgstr "Rychlé načtení"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom in x5"
-msgstr "Přiblížení x5"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom out x5"
-msgstr "Oddálení x5"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Take a screenshot"
-msgstr "Pořídit snímek obrazovky"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Reset the application"
-msgstr "Reset aplikace"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Hire staff"
-msgstr "Najmout zaměstnance"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Edit room"
-msgstr "Editační místnost"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Open build room menu"
-msgstr "Otevření menu místnosti pro sestavení"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Open furnish corridor menu"
-msgstr "Otevřít menu vybavení koridoru"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Quits the current level"
-msgstr "Ukončí aktuální úroveň"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Speeds up the game"
-msgstr "Zrychluje hru"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Set speed normal"
-msgstr "Nastavení rychlosti normální"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Show the cheat menu"
-msgstr "Zobrazení cheat menu"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom the camera out"
-msgstr "Oddálení kamery"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Zoom in the camera"
-msgstr "Přiblížení kamery"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Open LUA console"
-msgstr "Otevření konzoly LUA"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Town map"
-msgstr "Mapa města"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Casebook"
-msgstr "Kniha případů"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Research"
-msgstr "Výzkum"
-
-#. TRANSLATION: corsixth.keys
-msgctxt "keys_files"
-msgid "Manage Staff"
-msgstr "Správa zaměstnanců"
-
-#. TRANSLATION: sonic3-air.keys, dxx-rebirth.keys, sonic-mania.keys, etlegacy.keys, fallout2-ce.keys, ...
-msgctxt "keys_files"
-msgid "Exit game"
-msgstr "Ukončení hry"
-
-#. TRANSLATION: gzdoom.keys, raze.keys, eduke32.keys
-msgctxt "keys_files"
-msgid "quicksave"
-msgstr "rychlé uložení"
-
-#. TRANSLATION: gzdoom.keys, raze.keys, eduke32.keys
-msgctxt "keys_files"
-msgid "quickload"
-msgstr "rychlé načtení"
-
-#. TRANSLATION: gzdoom.keys, raze.keys, eduke32.keys
-msgctxt "keys_files"
-msgid "screenshot"
-msgstr "snímek obrazovky"
-
-#. TRANSLATION: iortcw.keys, theforceengine.keys
-msgctxt "keys_files"
-msgid "Skip cutscene"
-msgstr "Přeskočit scénu"
-
-#. TRANSLATION: iortcw.keys, 3ds.citra.keys, psx.duckstation.keys, triforce.dolphin_triforce.keys, psp.ppsspp.keys, ...
-msgctxt "keys_files"
-msgid "Screenshot"
-msgstr "Snímek obrazovky"
-
-#. TRANSLATION: theforceengine.keys, switch.ryujinx.keys, vpinball.keys, dreamcast.redream.keys, gaelco.demul.keys, ...
+#. TRANSLATION: vpinball.keys, dreamcast.redream.keys, naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, ...
 msgctxt "keys_files"
 msgid "Exit the emulator"
 msgstr "Ukončení emulátoru"
-
-#. TRANSLATION: theforceengine.keys
-msgctxt "keys_files"
-msgid "Quick Load"
-msgstr "Rychlé načtení"
-
-#. TRANSLATION: theforceengine.keys
-msgctxt "keys_files"
-msgid "Quick Save"
-msgstr "Rychlé uložení"
-
-#. TRANSLATION: fallout2-ce.keys, fallout1-ce.keys
-msgctxt "keys_files"
-msgid "Bring up menu"
-msgstr "Zobrazení menu"
-
-#. TRANSLATION: steam.keys, 3ds.citra.keys, xbox360.xenia-canary.keys, amiga500.fsuae.keys, amiga1200.fsuae.keys, ...
-msgctxt "keys_files"
-msgid "Exit emulator"
-msgstr "Ukončit emulátor"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Move Stylet Pointer"
-msgstr "Přesunutí ukazatele stylu"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Restart Emulation"
-msgstr "Restart emulace"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Continue/Pause emulation"
-msgstr "Pokračovat/pozastavit emulaci"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Swap Screen"
-msgstr "Výměna obrazovky"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Toggle Screen Layout"
-msgstr "Přepínání rozložení obrazovky"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Toggle Speed Limit"
-msgstr "Přepínání omezení rychlosti"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Swap screens"
-msgstr "Výměna obrazovek"
-
-#. TRANSLATION: 3ds.citra.keys
-msgctxt "keys_files"
-msgid "Mouse Click"
-msgstr "Kliknutí myší"
-
-#. TRANSLATION: dos.dosbox-x.keys
-msgctxt "keys_files"
-msgid "Exit Dosbox-X"
-msgstr "Ukončení Dosboxu-X"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Exit Duckstation"
-msgstr "Odchod z Duckstation"
-
-#. TRANSLATION: psx.duckstation.keys, nds.drastic.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Load State"
-msgstr "Načíst pozici"
-
-#. TRANSLATION: psx.duckstation.keys, nds.drastic.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Save State"
-msgstr "Uložit pozici"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Open DuckStation Quick Menu"
-msgstr "Otevřít rychlé menu DuckStation"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Restart Game"
-msgstr "Restart hry"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Slot -"
-msgstr "Slot -"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Slot +"
-msgstr "Slot +"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Rewind"
-msgstr "Přetočit"
-
-#. TRANSLATION: psx.duckstation.keys
-msgctxt "keys_files"
-msgid "Next Disc (m3u)"
-msgstr "Další disk (m3u)"
-
-#. TRANSLATION: psx.duckstation.keys, psp.ppsspp.keys
-msgctxt "keys_files"
-msgid "Fast Forward"
-msgstr "Rychle vpřed"
 
 #. TRANSLATION: vpinball.keys
 msgctxt "keys_files"
@@ -14831,6 +14541,51 @@ msgstr "Levé uložení magna"
 msgctxt "keys_files"
 msgid "Right magnasave"
 msgstr "Uložení vpravo magna"
+
+#. TRANSLATION: atomiswave.flycast.keys, naomi.flycast.keys, naomi2.flycast.keys, dreamcast.flycast.keys, triforce.dolphin_triforce.keys, ...
+msgctxt "keys_files"
+msgid "Exit emulator"
+msgstr "Ukončit emulátor"
+
+#. TRANSLATION: atomiswave.flycast.keys, naomi.flycast.keys, naomi2.flycast.keys, dreamcast.flycast.keys, dreamcast.redream.keys
+msgctxt "keys_files"
+msgid "Hide the bezel"
+msgstr "Skrytí rámečku"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys
+msgctxt "keys_files"
+msgid "Open Dolphin-triforce's menu"
+msgstr "Otevřít menu Dolphin-triforce"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys
+msgctxt "keys_files"
+msgid "Load State Slot 1"
+msgstr "Načtení pozice Slot 1"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys
+msgctxt "keys_files"
+msgid "Save State Slot 1"
+msgstr "Uložení pozice Slot 1"
+
+#. TRANSLATION: triforce.dolphin_triforce.keys, scummvm.keys, 3ds.citra.keys, psp.ppsspp.keys, psx.duckstation.keys, ...
+msgctxt "keys_files"
+msgid "Screenshot"
+msgstr "Snímek obrazovky"
+
+#. TRANSLATION: scummvm.keys
+msgctxt "keys_files"
+msgid "Menu"
+msgstr "Menu"
+
+#. TRANSLATION: scummvm.keys
+msgctxt "keys_files"
+msgid "Graphics filtering on/off"
+msgstr "Zapnutí/vypnutí filtrování grafiky"
+
+#. TRANSLATION: wiiu.keys
+msgctxt "keys_files"
+msgid "Display the controller screen"
+msgstr "Zobrazení obrazovky ovladače"
 
 #. TRANSLATION: nds.drastic.keys
 msgctxt "keys_files"
@@ -14937,6 +14692,16 @@ msgctxt "keys_files"
 msgid "Exit Drastic"
 msgstr "Drastický odchod"
 
+#. TRANSLATION: nds.drastic.keys, psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Save State"
+msgstr "Uložit pozici"
+
+#. TRANSLATION: nds.drastic.keys, psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Load State"
+msgstr "Načíst pozici"
+
 #. TRANSLATION: nds.drastic.keys
 msgctxt "keys_files"
 msgid "Swap Screens"
@@ -14952,175 +14717,410 @@ msgctxt "keys_files"
 msgid "FastForward"
 msgstr "Rychle vpřed"
 
-#. TRANSLATION: dreamcast.redream.keys, atomiswave.flycast.keys, dreamcast.flycast.keys, naomi.flycast.keys, naomi2.flycast.keys
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
 msgctxt "keys_files"
-msgid "Hide the bezel"
-msgstr "Skrytí rámečku"
+msgid "Start"
+msgstr "Start"
 
-#. TRANSLATION: amiga500.fsuae.keys, amiga1200.fsuae.keys, amigacdtv.fsuae.keys, amigacd32.fsuae.keys
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Coin"
+msgstr "Mince"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 2"
+msgstr "Stisknout 2"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 1"
+msgstr "Stisknout 1"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 4"
+msgstr "Stisknout 4"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 3"
+msgstr "Stisknout 3"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 5"
+msgstr "Stisknout 5"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 6"
+msgstr "Stisknout 6"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 7"
+msgstr "Stisknout 7"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Push 8"
+msgstr "Stisknout 8"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Left"
+msgstr "Digitál vlevo"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Right"
+msgstr "Digitál vpravo"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Up"
+msgstr "Digital nahoru"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Digital Down"
+msgstr "Digital dolů"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Left"
+msgstr "Analog 1 vlevo"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Right"
+msgstr "Analog 1 vpravo"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Up"
+msgstr "Analog 1 nahoru"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 1 Down"
+msgstr "Analog 1 dolů"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Left"
+msgstr "Analog 2 vlevo"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Right"
+msgstr "Analog 2 vpravo"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Up"
+msgstr "Analog 2 nahoru"
+
+#. TRANSLATION: naomi.demul.keys, hikaru.demul.keys, dreamcast.demul.keys, gaelco.demul.keys, cave3rd.demul.keys, ...
+msgctxt "keys_files"
+msgid "Analog 2 Down"
+msgstr "Analog 2 dolů"
+
+#. TRANSLATION: hikaru.demul.keys, gaelco.demul.keys
+msgctxt "keys_files"
+msgid "Set to full screen"
+msgstr "Nastavení na celou obrazovku"
+
+#. TRANSLATION: amiga1200.fsuae.keys, amigacd32.fsuae.keys, amigacdtv.fsuae.keys, amiga500.fsuae.keys
 msgctxt "keys_files"
 msgid "Virtual Keyboard"
 msgstr "Virtuální klávesnice"
 
-#. TRANSLATION: amiga500.fsuae.keys, amiga1200.fsuae.keys, amigacdtv.fsuae.keys, amigacd32.fsuae.keys
+#. TRANSLATION: amiga1200.fsuae.keys, amigacd32.fsuae.keys, amigacdtv.fsuae.keys, amiga500.fsuae.keys
 msgctxt "keys_files"
 msgid "Settings GUI"
 msgstr "Nastavení GUI"
 
-#. TRANSLATION: triforce.dolphin_triforce.keys
+#. TRANSLATION: 3ds.citra.keys
 msgctxt "keys_files"
-msgid "Open Dolphin-triforce's menu"
-msgstr "Otevřít menu Dolphin-triforce"
+msgid "Move Stylet Pointer"
+msgstr "Přesunutí ukazatele stylu"
 
-#. TRANSLATION: triforce.dolphin_triforce.keys
+#. TRANSLATION: 3ds.citra.keys
 msgctxt "keys_files"
-msgid "Load State Slot 1"
-msgstr "Načtení pozice Slot 1"
+msgid "Restart Emulation"
+msgstr "Restart emulace"
 
-#. TRANSLATION: triforce.dolphin_triforce.keys
+#. TRANSLATION: 3ds.citra.keys
 msgctxt "keys_files"
-msgid "Save State Slot 1"
-msgstr "Uložení pozice Slot 1"
+msgid "Continue/Pause emulation"
+msgstr "Pokračovat/pozastavit emulaci"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Swap Screen"
+msgstr "Výměna obrazovky"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Toggle Screen Layout"
+msgstr "Přepínání rozložení obrazovky"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Toggle Speed Limit"
+msgstr "Přepínání omezení rychlosti"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Swap screens"
+msgstr "Výměna obrazovek"
+
+#. TRANSLATION: 3ds.citra.keys
+msgctxt "keys_files"
+msgid "Mouse Click"
+msgstr "Kliknutí myší"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Slot -"
+msgstr "Slot -"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Slot +"
+msgstr "Slot +"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Rewind"
+msgstr "Přetočit"
+
+#. TRANSLATION: psp.ppsspp.keys, psx.duckstation.keys
+msgctxt "keys_files"
+msgid "Fast Forward"
+msgstr "Rychle vpřed"
 
 #. TRANSLATION: psp.ppsspp.keys
 msgctxt "keys_files"
 msgid "Pause / Menu"
 msgstr "Pauza / Menu"
 
-#. TRANSLATION: moonlight.moonlight.keys
+#. TRANSLATION: dos.dosbox-x.keys
 msgctxt "keys_files"
-msgid "Exit emulator using SDL"
-msgstr "Ukončení emulátoru pomocí SDL"
+msgid "Exit Dosbox-X"
+msgstr "Ukončení Dosboxu-X"
 
-#. TRANSLATION: gaelco.demul.keys, hikaru.demul.keys
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Set to full screen"
-msgstr "Nastavení na celou obrazovku"
+msgid "Exit Duckstation"
+msgstr "Odchod z Duckstation"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Start"
-msgstr "Start"
+msgid "Open DuckStation Quick Menu"
+msgstr "Otevřít rychlé menu DuckStation"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Coin"
-msgstr "Mince"
+msgid "Restart Game"
+msgstr "Restart hry"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: psx.duckstation.keys
 msgctxt "keys_files"
-msgid "Push 2"
-msgstr "Stisknout 2"
+msgid "Next Disc (m3u)"
+msgstr "Další disk (m3u)"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: raze.keys, eduke32.keys, gzdoom.keys
 msgctxt "keys_files"
-msgid "Push 1"
-msgstr "Stisknout 1"
+msgid "quicksave"
+msgstr "rychlé uložení"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: raze.keys, eduke32.keys, gzdoom.keys
 msgctxt "keys_files"
-msgid "Push 4"
-msgstr "Stisknout 4"
+msgid "quickload"
+msgstr "rychlé načtení"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: raze.keys, eduke32.keys, gzdoom.keys
 msgctxt "keys_files"
-msgid "Push 3"
-msgstr "Stisknout 3"
+msgid "screenshot"
+msgstr "snímek obrazovky"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: etlegacy.keys, dxx-rebirth.keys, fallout1-ce.keys, sonic-mania.keys, fallout2-ce.keys, ...
 msgctxt "keys_files"
-msgid "Push 5"
-msgstr "Stisknout 5"
+msgid "Exit game"
+msgstr "Ukončení hry"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Push 6"
-msgstr "Stisknout 6"
+msgid "Move camera up"
+msgstr "Posunutí kamery nahoru"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Push 7"
-msgstr "Stisknout 7"
+msgid "Move camera down"
+msgstr "Posunutí kamery dolů"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Push 8"
-msgstr "Stisknout 8"
+msgid "Move camera to the left"
+msgstr "Posunutí kamery doleva"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Left"
-msgstr "Digitál vlevo"
+msgid "Move camera to the right"
+msgstr "Posunutí kamery doprava"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Right"
-msgstr "Digitál vpravo"
+msgid "Quit the application"
+msgstr "Ukončit aplikaci"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Up"
-msgstr "Digital nahoru"
+msgid "Start / Valid"
+msgstr "Start / Platnost"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Digital Down"
-msgstr "Digital dolů"
+msgid "Shows or hides the menu bar"
+msgstr "Zobrazení nebo skrytí panelu menu"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 1 Left"
-msgstr "Analog 1 vlevo"
+msgid "Rotates the current object"
+msgstr "Otočí aktuální objekt"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 1 Right"
-msgstr "Analog 1 vpravo"
+msgid "Select"
+msgstr "Vybrat"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys, fallout1-ce.keys, fallout2-ce.keys, iortcw.keys
 msgctxt "keys_files"
-msgid "Analog 1 Up"
-msgstr "Analog 1 nahoru"
+msgid "Quick save"
+msgstr "Rychlé uložení"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys, fallout1-ce.keys, fallout2-ce.keys, iortcw.keys
 msgctxt "keys_files"
-msgid "Analog 1 Down"
-msgstr "Analog 1 dolů"
+msgid "Quick load"
+msgstr "Rychlé načtení"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Left"
-msgstr "Analog 2 vlevo"
+msgid "Zoom in x5"
+msgstr "Přiblížení x5"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Right"
-msgstr "Analog 2 vpravo"
+msgid "Zoom out x5"
+msgstr "Oddálení x5"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Up"
-msgstr "Analog 2 nahoru"
+msgid "Take a screenshot"
+msgstr "Pořídit snímek obrazovky"
 
-#. TRANSLATION: gaelco.demul.keys, dreamcast.demul.keys, hikaru.demul.keys, cave3rd.demul.keys, naomi.demul.keys, ...
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Analog 2 Down"
-msgstr "Analog 2 dolů"
+msgid "Reset the application"
+msgstr "Reset aplikace"
 
-#. TRANSLATION: scummvm.keys
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Menu"
-msgstr "Menu"
+msgid "Hire staff"
+msgstr "Najmout zaměstnance"
 
-#. TRANSLATION: scummvm.keys
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Graphics filtering on/off"
-msgstr "Zapnutí/vypnutí filtrování grafiky"
+msgid "Edit room"
+msgstr "Editační místnost"
 
-#. TRANSLATION: wiiu.keys
+#. TRANSLATION: corsixth.keys
 msgctxt "keys_files"
-msgid "Display the controller screen"
-msgstr "Zobrazení obrazovky ovladače"
+msgid "Open build room menu"
+msgstr "Otevření menu místnosti pro sestavení"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Open furnish corridor menu"
+msgstr "Otevřít menu vybavení koridoru"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Quits the current level"
+msgstr "Ukončí aktuální úroveň"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Speeds up the game"
+msgstr "Zrychluje hru"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Set speed normal"
+msgstr "Nastavení rychlosti normální"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Show the cheat menu"
+msgstr "Zobrazení cheat menu"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Zoom the camera out"
+msgstr "Oddálení kamery"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Zoom in the camera"
+msgstr "Přiblížení kamery"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Open LUA console"
+msgstr "Otevření konzoly LUA"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Town map"
+msgstr "Mapa města"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Casebook"
+msgstr "Kniha případů"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Research"
+msgstr "Výzkum"
+
+#. TRANSLATION: corsixth.keys
+msgctxt "keys_files"
+msgid "Manage Staff"
+msgstr "Správa zaměstnanců"
+
+#. TRANSLATION: fallout1-ce.keys, fallout2-ce.keys
+msgctxt "keys_files"
+msgid "Bring up menu"
+msgstr "Zobrazení menu"
+
+#. TRANSLATION: theforceengine.keys
+msgctxt "keys_files"
+msgid "Quick Load"
+msgstr "Rychlé načtení"
+
+#. TRANSLATION: theforceengine.keys
+msgctxt "keys_files"
+msgid "Quick Save"
+msgstr "Rychlé uložení"
+
+#. TRANSLATION: theforceengine.keys, iortcw.keys
+msgctxt "keys_files"
+msgid "Skip cutscene"
+msgstr "Přeskočit scénu"
 
 #~ msgctxt "game_options"
 #~ msgid "INSTALL MEDIA FOUNDATION"
